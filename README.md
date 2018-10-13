@@ -3,7 +3,7 @@ Role Name
 
 Ansible Role to Install and Configure Logstash
 
-[![Build Status](https://travis-ci.org/valentinogagliardi/logstash-role.svg?branch=master)](https://travis-ci.org/valentinogagliardi/logstash-role)
+[![Build Status](https://travis-ci.org/valentinogagliardi/logstash-role.svg?branch=master)](https://travis-ci.org/valentinogagliardi/logstash-role) [![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/logstash-role.svg)](https://www.guardrails.io)
 
 Requirements
 ------------
